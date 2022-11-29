@@ -12,7 +12,7 @@ Term: Fall 2022
 	+ team member 3
 	+ team member 4
 	+ team member 5
-+ Project summary: We compared two algorithms, Fairness-aware Classifier with Prejudice Remover Regularizer and Handling Conditional Discrimination, to see which one give fairer decisions on a given dataset.
++ Project summary: We compared two algorithms, Fairness-aware Classifier with Prejudice Remover Regularizer and Handling Conditional Discrimination, to see which one gives fairer decisions on a given dataset.
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 + Chen constructed a classifier with prejudice remover regularizer model and worked on the presentation slides.
