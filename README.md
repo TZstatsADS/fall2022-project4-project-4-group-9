@@ -5,7 +5,7 @@
 Term: Fall 2022
 
 + Team #9
-+ Projec title: Comparison between two algorithms in the field of machine learning fairness
++ Project title: Comparison between two algorithms in the field of machine learning fairness
 + Team members
 	+ Chen Chen
 	+ team member 2
