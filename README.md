@@ -10,7 +10,7 @@ Term: Fall 2022
 	+ Chen Chen
 	+ Donglai Xu
 	+ Kartik Kotian
-	+ TomaszWislicki
+	+ Tomasz Wislicki
 + Project summary: We compared two algorithms, Fairness-aware Classifier with Prejudice Remover Regularizer and Handling Conditional Discrimination, to see which one gives fairer decisions on a given dataset.
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
