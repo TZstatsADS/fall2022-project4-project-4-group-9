@@ -8,10 +8,9 @@ Term: Fall 2022
 + Project title: Comparison between two algorithms in the field of machine learning fairness
 + Team members
 	+ Chen Chen
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Donglai Xu
+	+ Kartik Kotian
+	+ TomaszWislicki
 + Project summary: We compared two algorithms, Fairness-aware Classifier with Prejudice Remover Regularizer and Handling Conditional Discrimination, to see which one gives fairer decisions on a given dataset.
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
