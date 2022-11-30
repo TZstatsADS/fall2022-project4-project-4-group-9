@@ -17,6 +17,7 @@ Term: Fall 2022
 + Chen constructed a classifier with prejudice remover regularizer model and worked on the presentation slides.
 + Tomasz wrote his own preprocessing and baseline routine with prejudice remover model, which he went through with Chen to compare results and standardize code with the best output, as well as worked on formatting the slides and the readme descriptions 
 + Donglai wrote the preprocess codes and construct A6 with Kartik Kotian. Worked on the presentation slides and do the presentation.
++ Kartik worked on A6 model and wrote codes for model comparision plots.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
